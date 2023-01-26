@@ -1,5 +1,7 @@
 Tiktok Algorithm (README.md)
 
+## Author: https://github.com/Splintermaster-X
+
 
 # x-ladon, x-argus, x-gorgon, x-khronos, device register, 
 douyin and tiktok x-argus x-ladon x-gorgon x-khronos algorithm, device register algorithm
@@ -46,7 +48,7 @@ Now, you can just run the exe file, no need for python3
 <img src="tt_userinfo.gif">
 
 # Usage:
-Download zip file or run command on terminal git clone https://github.com/xgxkxaxl/x-ladon
+Download zip file or run command on terminal git clone https://github.com/Splintermaster-X/x-ladon-xargus
 Extract files any folder
 You need .Net 6.0.0
 Just double click run.exe
